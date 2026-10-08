@@ -83,10 +83,10 @@ Le dataset initial présente :
 
 Les moyennes observées sont approximativement :
 
-| Score | Moyenne |
-| Mathématiques | 66,09 |
-| Lecture | 69,17 |
-| Écriture | 68,05 |
+Score             Moyenne
+Mathématiques     66,09
+Lecture           69,17
+Écriture          68,05
 
 Les trois scores présentent des dispersions relativement proches.
 
@@ -259,5 +259,3 @@ Le dataset `engineered_data.csv` constitue maintenant une base préparée pour l
 **Ilona Joanne Ndabo**
 
 Projet réalisé dans le cadre d'un parcours d'apprentissage en Data Science et Machine Learning.
-
-```
